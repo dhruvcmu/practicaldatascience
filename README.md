@@ -1,4 +1,4 @@
-# practicaldatascience
+# Data Science Project - NYC Geo Data
 
 1. Team Members:
 	1. Dhruv Anand (danand)
@@ -7,7 +7,7 @@
 	1. Clone the git repository at https://github.com/dhruvcmu/practicaldatascience.
 	2. Open Final_Report.ipynb in jupyter.
 	3. Run all cells.
-3. Nbviewer link: 
+3. Nbviewer link: http://nbviewer.jupyter.org/github/dhruvcmu/practicaldatascience/blob/master/Final_Report.ipynb?flush_cache=true
 4. All required data files are in the repository.
 5. Potential Sources:
 	1. Heatmap basic code: http://nbviewer.jupyter.org/gist/perrygeo/c426355e40037c452434
